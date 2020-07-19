@@ -1,0 +1,14 @@
+Step 1:
+A variable 'sum_of_digits' is declared with 0.
+
+Step 2:
+A variable 'number' is declared which stores the value of 2**1000.
+
+Step 3:
+'number' is looped through first after converting the integer into string to seperate the digits.
+
+Step 4:
+the digits are added with each other after converting them back into integers and stored in 'sum_of_digits'.
+
+Step 5: 
+the 'sum_of_digits' is displayed.
